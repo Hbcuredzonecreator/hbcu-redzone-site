@@ -1,0 +1,1 @@
+Place your HBCU Redzone photos in this folder. Then update src/main.jsx galleryItems image paths.
